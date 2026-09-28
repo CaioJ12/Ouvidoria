@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-09-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A situação do pavimento na Rua das Acácias, próxima ao cruzamento com a Avenida Central, está causando dificuldades para motoristas e pedestres. Existe um buraco profundo que aumenta de tamanho depois das chuvas e acumula água, tornando difícil perceber sua profundidade durante a noite. Veículos precisam reduzir bruscamente a velocidade e alguns acabam desviando para a faixa contrária, principalmente quando há carros estacionados no local. Moradores relatam que motociclistas têm maior dificuldade para visualizar o defeito e pedem sinalização provisória até que seja possível realizar o reparo. Também foi observado que a borda do asfalto está se desfazendo ao redor do buraco, o que pode ampliar a área danificada."
+  },
+  {
+    "id": "M002",
+    "data": "2026-09-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua do Mercado está com várias placas soltas e desníveis. Pessoas com carrinho de bebê e idosos têm dificuldade para passar pelo trecho."
+  },
+  {
+    "id": "M003",
+    "data": "2026-09-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Avenida Brasil, perto do ponto de ônibus. Depois das chuvas ele fica cheio de água e ocupa boa parte da faixa."
+  },
+  {
+    "id": "M004",
+    "data": "2026-09-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A tampa de um bueiro está quebrada na Rua do Sol. O local foi sinalizado pelos moradores, mas continua oferecendo risco para motociclistas."
+  },
+  {
+    "id": "M005",
+    "data": "2026-09-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo da esquina da Rua Norte com a Avenida das Palmeiras permanece apagado em alguns horários e deixa o cruzamento confuso."
+  },
+  {
+    "id": "M006",
+    "data": "2026-09-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A pavimentação do acesso ao bairro Jardim Novo apresenta muitas ondulações e remendos, dificultando a circulação de ônibus."
+  },
+  {
+    "id": "M007",
+    "data": "2026-09-04",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há uma faixa de pedestres quase apagada em frente à escola municipal. A travessia fica pouco visível para os motoristas."
+  },
+  {
+    "id": "M008",
+    "data": "2026-09-04",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro está sem médico para atendimento clínico nesta semana. Os moradores chegam cedo e acabam voltando para casa sem consulta."
+  },
+  {
+    "id": "M009",
+    "data": "2026-09-05",
+    "categoria_oficial": "saúde",
+    "texto": "Faltam medicamentos básicos para hipertensão na unidade de saúde do bairro. A farmácia informou que ainda não recebeu reposição."
+  },
+  {
+    "id": "M010",
+    "data": "2026-09-05",
+    "categoria_oficial": "saúde",
+    "texto": "A demora para realização de exames laboratoriais na unidade municipal tem afetado moradores que dependem do serviço para acompanhar tratamentos e concluir consultas. Segundo o relato, alguns pedidos permanecem aguardando agendamento por mais de um mês e não existe um canal claro informando a posição do paciente na fila. Quando a pessoa procura a recepção, recebe apenas a orientação de aguardar uma nova chamada, sem previsão aproximada. O problema é especialmente difícil para quem precisa retornar ao médico com o resultado de um exame já solicitado. Há também casos em que o usuário precisa faltar ao trabalho para comparecer à unidade e confirmar que ainda está aguardando."
+  },
+  {
+    "id": "M011",
+    "data": "2026-09-06",
+    "categoria_oficial": "saúde",
+    "texto": "O atendimento odontológico do centro de saúde foi reduzido e vários pacientes tiveram consultas remarcadas sem uma nova data definida."
+  },
+  {
+    "id": "M012",
+    "data": "2026-09-06",
+    "categoria_oficial": "saúde",
+    "texto": "A sala de espera da unidade pediátrica fica lotada pela manhã e não há orientação clara sobre a ordem de chamada dos pacientes."
+  },
+  {
+    "id": "M013",
+    "data": "2026-09-07",
+    "categoria_oficial": "saúde",
+    "texto": "Uma receita emitida pela unidade municipal apresentou divergência no cadastro e o usuário precisou retornar ao posto para corrigir os dados."
+  },
+  {
+    "id": "M014",
+    "data": "2026-09-07",
+    "categoria_oficial": "saúde",
+    "texto": "O telefone informado para agendamento de consultas raramente é atendido durante o horário divulgado pela secretaria."
+  },
+  {
+    "id": "M015",
+    "data": "2026-09-08",
+    "categoria_oficial": "saúde",
+    "texto": "O laboratório municipal está com equipamento parado e alguns exames foram encaminhados para outra unidade, aumentando o tempo de espera."
+  },
+  {
+    "id": "M016",
+    "data": "2026-09-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A iluminação pública da Travessa das Flores apresenta três pontos consecutivos sem funcionamento. Moradores relatam pouca visibilidade depois das 19 horas."
+  },
+  {
+    "id": "M017",
+    "data": "2026-09-09",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal, principalmente perto da parada de ônibus, e os veículos precisam mudar de faixa para evitar os danos."
+  },
+  {
+    "id": "M018",
+    "data": "2026-09-09",
+    "categoria_oficial": "segurança",
+    "texto": "Uma câmera de monitoramento instalada na praça central está sem sinal há vários dias. A população pede verificação do equipamento."
+  },
+  {
+    "id": "M019",
+    "data": "2026-09-10",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores da Rua das Palmeiras relatam circulação de motocicletas em velocidade elevada durante a madrugada, principalmente nos finais de semana. O barulho dos motores e as acelerações repentinas têm incomodado famílias que vivem próximas à via. Além do ruído, existe preocupação com a segurança de pedestres, ciclistas e veículos que entram na rua a partir das vias laterais. Os moradores afirmam que já observaram situações em que motociclistas fazem manobras próximas a esquinas e passam pelos cruzamentos sem reduzir a velocidade. A solicitação é para que sejam avaliadas ações de fiscalização em horários de maior ocorrência e, se possível, a presença de agentes em pontos estratégicos."
+  },
+  {
+    "id": "M020",
+    "data": "2026-09-10",
+    "categoria_oficial": "segurança",
+    "texto": "A iluminação de um trecho próximo ao terminal está fraca e os pedestres dizem que o local fica inseguro após o fechamento dos comércios."
+  },
+  {
+    "id": "M021",
+    "data": "2026-09-11",
+    "categoria_oficial": "segurança",
+    "texto": "O botão de acionamento da faixa semaforizada para pedestres não está funcionando e pessoas precisam esperar longos períodos para atravessar."
+  },
+  {
+    "id": "M022",
+    "data": "2026-09-11",
+    "categoria_oficial": "saúde",
+    "texto": "A unidade do PSF está sem atendimento médico e os moradores não conseguem marcar consulta para esta semana. A recepção orienta a procurar outra unidade."
+  },
+  {
+    "id": "M023",
+    "data": "2026-09-12",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do bairro está com duas salas sem ventiladores funcionando. Em dias quentes, estudantes e professores relatam desconforto."
+  },
+  {
+    "id": "M024",
+    "data": "2026-09-12",
+    "categoria_oficial": "educação",
+    "texto": "O transporte escolar que atende a comunidade rural tem chegado atrasado com frequência, fazendo alunos perderem o início das aulas."
+  },
+  {
+    "id": "M025",
+    "data": "2026-09-13",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da escola precisa de atualização do acervo e os professores relatam falta de livros adequados para algumas turmas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-09-13",
+    "categoria_oficial": "educação",
+    "texto": "O laboratório de informática possui computadores que não ligam e a conexão disponível é instável durante as atividades."
+  },
+  {
+    "id": "M027",
+    "data": "2026-09-14",
+    "categoria_oficial": "educação",
+    "texto": "A quadra esportiva da escola está com parte da cobertura danificada e as aulas de educação física são interrompidas quando chove."
+  },
+  {
+    "id": "M028",
+    "data": "2026-09-14",
+    "categoria_oficial": "educação",
+    "texto": "A inscrição para uma atividade extracurricular foi divulgada sem informação clara sobre horários e critérios de participação."
+  },
+  {
+    "id": "M029",
+    "data": "2026-09-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego que passa atrás do bairro apresenta odor forte e sinais de descarte irregular de resíduos. Moradores perceberam que o problema aumenta no final da tarde e depois de determinados períodos de chuva. Em alguns pontos há materiais acumulados nas margens, enquanto a água apresenta aspecto diferente do observado anteriormente. A comunidade solicita uma vistoria ambiental para verificar a origem do descarte e avaliar se existe lançamento irregular de efluentes. Também foi pedido que a área seja limpa, mas os moradores entendem que somente retirar o material não resolverá o problema caso novas ocorrências continuem acontecendo. Há preocupação com crianças que circulam próximo ao córrego e com animais que têm acesso à água."
+  },
+  {
+    "id": "M030",
+    "data": "2026-09-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta de recicláveis não ocorreu nesta semana em três ruas do bairro. Sacos ficaram acumulados próximos aos contêineres."
+  },
+  {
+    "id": "M031",
+    "data": "2026-09-16",
+    "categoria_oficial": "segurança",
+    "texto": "Uma lâmpada está queimada na praça principal e o trecho ao redor do parquinho fica escuro à noite. Famílias pedem manutenção da iluminação."
+  },
+  {
+    "id": "M032",
+    "data": "2026-09-16",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Árvores de uma área pública estão com galhos secos sobre a calçada e precisam de avaliação para evitar queda durante ventos fortes."
+  },
+  {
+    "id": "M033",
+    "data": "2026-09-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Existe acúmulo de entulho em um terreno próximo às casas. O material atrai insetos e ocupa uma área que poderia permanecer limpa."
+  },
+  {
+    "id": "M034",
+    "data": "2026-09-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A praça do bairro está com lixeiras cheias por vários dias e moradores relatam aumento de resíduos espalhados no entorno."
+  },
+  {
+    "id": "M035",
+    "data": "2026-09-18",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um trecho do riacho apresenta espuma e mudança de coloração depois do período de chuvas. A comunidade solicita coleta de amostra para análise."
+  },
+  {
+    "id": "M036",
+    "data": "2026-09-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A passagem de ônibus pela Rua das Pedras ficou prejudicada porque uma tampa de drenagem afundou e criou um desnível na pista."
+  },
+  {
+    "id": "M037",
+    "data": "2026-09-19",
+    "categoria_oficial": "segurança",
+    "texto": "A sinalização vertical próxima ao cruzamento da Avenida Central está parcialmente encoberta por vegetação e dificulta a identificação da preferência."
+  },
+  {
+    "id": "M038",
+    "data": "2026-09-19",
+    "categoria_oficial": "educação",
+    "texto": "A escola recebeu novos materiais didáticos, mas parte das caixas ainda não foi distribuída às salas. Professores solicitam orientação para retirada."
+  },
+  {
+    "id": "M039",
+    "data": "2026-09-20",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Moradores próximos ao distrito industrial relatam a presença de fumaça e cheiro forte durante parte da noite. Segundo a comunidade, o episódio não acontece necessariamente todos os dias, mas quando ocorre o odor pode permanecer por algumas horas. Algumas famílias mantêm portas e janelas fechadas para reduzir o desconforto, especialmente quando o vento direciona a fumaça para as residências. Os moradores não conseguem identificar com segurança a origem da emissão e pedem uma vistoria que considere as empresas e demais atividades existentes na região. Também solicitam orientação sobre quais informações devem ser registradas quando o episódio acontecer, como horário, duração, direção do vento e características visuais da fumaça."
+  },
+  {
+    "id": "M040",
+    "data": "2026-09-20",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A rua lateral ao terminal possui vários pontos de pavimento irregular e a água fica acumulada junto ao meio-fio após chuvas fortes."
+  }
+]

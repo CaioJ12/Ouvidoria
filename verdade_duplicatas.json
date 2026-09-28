@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    [
+      "M003",
+      "M017"
+    ],
+    [
+      "M008",
+      "M022"
+    ],
+    [
+      "M024",
+      "M038"
+    ]
+  ],
+  "definition": "Same underlying citizen problem described with different wording; three pairs cover 6 of 40 records.",
+  "note": "M008 and M031 are intentionally not duplicates: both concern public services but describe different issues."
+}

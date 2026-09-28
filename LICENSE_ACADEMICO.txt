@@ -1,0 +1,2 @@
+Material acadêmico para a atividade de NLP. Não contém dados reais de cidadãos.
+Autoria, integrantes e identificação institucional devem ser preenchidos pelo aluno.
